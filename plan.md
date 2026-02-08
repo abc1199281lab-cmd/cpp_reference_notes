@@ -28,5 +28,5 @@ Create a structured knowledge base of C++ language features, standard library (S
 ## Documentation Phases
 - [x] Phase 1: Setup reference links and overview of C++ Standards.
 - [x] Phase 2: Core Language features deep dive.
-- [ ] Phase 3: STL Container and Algorithm analysis.
-- [ ] Phase 4: Advanced topics (Template Metaprogramming, Concurrency).
+- [x] Phase 3: STL Container and Algorithm analysis.
+- [x] Phase 4: Advanced topics (Template Metaprogramming, Concurrency).
